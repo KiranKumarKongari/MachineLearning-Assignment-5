@@ -3,7 +3,7 @@ StudentID: 700734361
 
 Description: 
 ------------
-This is a python assignment consists of 3 questions(2nd and 3rd question are related so done in same file) done in PyCharm IDE. Includes questions on implementation of Machine Learning Clustering Algorithms like Linear Regression, K-Means Clustering and Data Analysis and its visualization . Attached the datset files and word document(ML-Assignment-4.docx) which includes questions and screenshots of the code and output for each question.
+This is a python assignment consists of 4 questions(except 4th question which is theory based so it is in written in the document) done in PyCharm IDE. Includes questions on implementation of Machine Learning Data preprocessing Algorithms like Principal Component Analysis(PCA),Linear Discriminant Analysis (LDA) . Attached the datset files and word document(ML-Assignment-5.docx) which includes questions and screenshots of the code and output for each question.
 
-Video Presentation Link: 
+Video Presentation Link: https://youtu.be/l2-lrDwJ04Q
 -----------------------
